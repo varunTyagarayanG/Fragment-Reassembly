@@ -1,0 +1,7 @@
+"Source_IP" "Frag_id" "Result"
+"172.16.88.12"  123   Complete with Payload = 1608
+"202.41.45.117" 1     Complete with Payload = 1480
+"202.41.85.117" 1     Missing Fragment
+"202.41.85.117" 231   Missing Fragment
+"202.41.85.117" 243   Missing Fragment, Mismatch in length
+"234.44.34.23"  234   Missing Fragment
